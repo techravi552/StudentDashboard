@@ -1,0 +1,24 @@
+{
+    "users": {
+      "user1": { 
+        "name": "John Doe", 
+        "email": "john@example.com" ,
+         "age":"22 year" , 
+         "cource":"Maths" , 
+         "skill":"javaScript", 
+         "gender": "Male"
+         },
+
+      "user2": { 
+        "name": "ravi",
+         "email": "ravi@example.com" ,
+         "age":"23 year" , 
+         "cource":"comrse" ,
+          "skill":"React js",
+           "gender": "Male" 
+        }
+     
+    }
+  }
+  
+  

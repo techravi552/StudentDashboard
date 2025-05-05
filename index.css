@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    width: 100%;
+    height: 70px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul {
+    width: 90%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* border:  1px solid red; */
+}
+
+li {
+    list-style: none;
+}
+
+header {
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+footer{
+width: 98%;
+height: 200px;
+background-color: rgb(53, 45, 45);
+color: white;
+/* padding: 40px; */
+display: flex;
+margin-left: 13px;
+
+
+}
+footer.img{
+height: 150px;
+width: 200px;
+/* padding-top: 40px; */
+}
+.lastfoter{
+width: 100%;
+height: 30px;
+color: white;
+background-color: black;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.view{
+width: 100%;
+height: auto;
+background-color: rgb(189, 138, 71);
+color: black;
+text-align: center;
+}
+#view-student{
+width: 100%;
+height: auto;
+/* padding: 40px; */
+/* border: 1px solid black; */
+background-color: blue;
+color: white;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+table, th, td {
+border: 1px solid black;
+border-radius: 10px;
+text-align: center;
+
+}
+tr{
+background-color: aliceblue;
+color: black;
+height: 50px;
+}
+th{
+background-color: blueviolet;
+}
+.edit{
+    color: blue;
+}
+.delete{
+    color: red;
+}
